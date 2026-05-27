@@ -1,0 +1,6 @@
+{
+  "model_version": "1.0.0",
+  "algorithm": "XGBoost",
+  "validation_strategy": "holdout_without_shuffle",
+  "removed_leakage_column": "defaulted_in_next_12_months"
+}

@@ -1,0 +1,9 @@
+{
+  "features": [
+    "land_area_acres",
+    "crop_type",
+    "pm_kisan_status",
+    "historical_repayment_score"
+  ],
+  "target": "target_entitlement_score"
+}
